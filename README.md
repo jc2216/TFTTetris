@@ -35,6 +35,30 @@ A 1.8" TFT powered by a Raspberry Pi Pico that can play the hit game Tetris. Con
 - Will be added soon
 
 ## BOM
+## Bill of Materials
+
+| Item | Qty | Supplier | Cost/item | Total | Link |
+|---|---|---|---|---|---|
+| Tact push button | 1 | AliExpress | $0.96 | $0.96 | [Link](https://www.aliexpress.us/item/3256805859865632.html) |
+| MPU6050 | 1 | AliExpress | $3.89 | $3.89 | [Link](https://www.aliexpress.us/item/3256812536361672.html) |
+| Raspberry Pi Pico | 1 | AliExpress | $2.63 | $2.63 | [Link](https://www.aliexpress.us/item/3256805430865417.html) |
+| 1.8" TFT | 1 | AliExpress | $2.97 | $2.97 | [Link](https://www.aliexpress.us/item/3256805953674718.html) |
+| 3.7V 800 mAh LiPo | 1 | AliExpress | $1.09 | $1.09 | [Link](https://www.aliexpress.us/item/3256808535461122.html) |
+| S8050 transistors | 1 | AliExpress | $2.64 | $2.64 | [Link](https://www.aliexpress.us/item/3256806624734473.html) |
+| Slide switch | 1 | AliExpress | $1.11 | $1.11 | [Link](https://www.aliexpress.us/item/3256804214993913.html) |
+| TP4056 | 1 | AliExpress | $1.10 | $1.10 | [Link](https://www.aliexpress.us/item/3256808491871337.html) |
+| SS14 Schottky diode | 1 | AliExpress | $2.18 | $2.18 | [Link](https://www.aliexpress.us/w/wholesale-ss14-Schottky-diode.html) |
+| AO3401A transistor | 1 | AliExpress | $2.10 | $2.10 | [Link](https://www.aliexpress.us/item/3256811832598213.html) |
+| Molex PicoBlade | 1 | AliExpress | $2.25 | $2.25 | [Link](https://www.aliexpress.us/item/3256809135240230.html) |
+| R1, 100 Ω resistor, 0805 | 1 | | | | |
+| R2, 10 kΩ resistor, 0805 | 1 | | | | |
+| R3, 1 kΩ resistor, 0805 | 1 | | | | |
+| C1, 10 µF ceramic capacitor, 0805 | 1 | | | | |
+| C2, 100 nF ceramic capacitor, 0805 | 1 | | | | |
+| Active buzzer, 3 to 3.3 V | 1 | | | | |
+| PCB | 1 | JLCPCB | $4.00 | $4.00 | [Link](https://jlcpcb.com) |
+| Estimated shipping | 1 | | | $15.63 | |
+| **Total** | | | | **$42.55** | |
 
 
 
