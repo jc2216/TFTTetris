@@ -1,0 +1,28 @@
+//extremely barebones code but unfortunately i'm a really busy hs junior and i have 50 million tests this week
+//to be worked on during build week. 
+
+const byte tetromino[7][4][4] = {
+  // I
+  {{0,0,0,0}, {1,1,1,1}, {0,0,0,0}, {0,0,0,0}}, 
+  // J
+  {{1,0,0,0}, {1,1,1,0}, {0,0,0,0}, {0,0,0,0}},
+  // L
+  {{0,0,1,0}, {1,1,1,0}, {0,0,0,0}, {0,0,0,0}},
+  // O
+  {{1,1,0,0}, {1,1,0,0}, {0,0,0,0}, {0,0,0,0}},
+  // S
+  {{0,1,1,0}, {1,1,0,0}, {0,0,0,0}, {0,0,0,0}},
+  // T
+  {{0,1,0,0}, {1,1,1,0}, {0,0,0,0}, {0,0,0,0}},
+  // Z
+  {{1,1,0,0}, {0,1,1,0}, {0,0,0,0}, {0,0,0,0}}
+};
+void setup() {
+  // put your setup code here, to run once:
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+}
