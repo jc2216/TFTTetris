@@ -35,8 +35,6 @@ A 1.8" TFT powered by a Raspberry Pi Pico that can play the hit game Tetris. Con
 - Will be added soon
 
 ## BOM
-## Bill of Materials
-
 | Item | Qty | Supplier | Cost/item | Total | Link |
 |---|---|---|---|---|---|
 | Tact push button | 1 | AliExpress | $0.96 | $0.96 | [Link](https://www.aliexpress.us/item/3256805859865632.html) |
